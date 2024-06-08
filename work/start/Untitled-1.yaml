@@ -1,0 +1,27 @@
+Control Statements:
+1. Conditional:
+    - if & else
+    - loops
+2. Non Conditional:
+    - break
+    - continue
+    - return
+    - go-to
+
+Functions:
+    - 
+
+for loop :
+   for(int i=0,j<n-1;i<j;i++.j--) {
+        //
+   }
+
+   we can use left,right instead of i,j
+   to get better understanding,
+
+this procedure is called refactoring of the code. 
+
+clean code - call the functions, to implement the methods in the main code
+
+- auto save
+- git & github
